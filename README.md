@@ -7,7 +7,7 @@ This is a temporary repo.  It is a direct copy of a plugin implementation that w
 
 Again, there is no original code here - this is a repackaging of a pull request that has been pending for several months.
 
-https://github.com/square/wire/pulls/177
+https://github.com/benjamin-bader/wire-gradle-plugin/issues/1
 
 Usage
 -----
