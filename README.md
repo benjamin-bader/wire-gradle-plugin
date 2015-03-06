@@ -5,6 +5,8 @@ A Gradle plugin to automatically build protobuf classes using Square's Wire libr
 
 This is a temporary repo.  It is a direct copy of a plugin implementation that will be merged into the official Wire repository "soon".  We'd like to use this "sooner", so here we are.
 
+The purpose of hosting this here is to repackage the plugn and publish it as a snapshot to Sonatype, enabling easy use in our projects until this code gets an official release.
+
 Again, there is no original code here - this is a repackaging of a pull request that has been pending for several months.
 
 https://github.com/square/wire/pull/177
